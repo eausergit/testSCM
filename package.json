@@ -10,7 +10,8 @@
     "react": "16.0.0",
     "react-dom": "16.0.0",
     "lodash": "1.2.0",
-    "protobufjs": "6.11.3"
+    "protobufjs": "6.11.3",
+    "jquery": "2.2.4"
   },
   "devDependencies": {
     "babel-core": "^6.26.3",
